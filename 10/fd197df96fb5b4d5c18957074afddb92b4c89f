@@ -1,0 +1,14 @@
+.agents/skills/work-on-plan/SKILL.md
+  h_ea837308011c6c 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "10fd197df96fb5b4d5c18957074afddb92b4c89f",
+  "prompts": {},
+  "humans": {
+    "h_ea837308011c6c": {
+      "author": "Kjetil Hårtveit <kjetil_runescape@hotmail.com>"
+    }
+  }
+}
