@@ -1,6 +1,6 @@
-# {Project name}
+# Media for characters in game
 
-{Short description for humans}
+The purpose of this project is to fetch media for characters in video-games.
 
 # For AI agents
 

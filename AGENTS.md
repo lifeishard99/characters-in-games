@@ -1,6 +1,26 @@
 # Information
 
-{show description about the application}
+The purpose of this project is to fetch media for characters in video-games.
+
+This chore is tedious and time-consuming, so it's a good candidate for automation/assistance from agents.
+
+The media is vital in our research around video-game characters.
+
+## Media folder
+
+The media is stored in the [media](media/) folder (git ignored).
+
+# Plan
+
+- [ ] Fetch media for female characters in the game Marvel Rivals.
+  - Character game screens.
+  - Fan art images (especially sensual ones).
+
+## Execution of plan
+
+- You should git commit and push regularly, particularly after making many code changes.
+- After every step you should tick the step off the plan and make sure everything is committed and pushed.
+- Be autonomous, but if you need my input then ask for it in [QA.md](QA.md).
 
 # The docs folder
 
