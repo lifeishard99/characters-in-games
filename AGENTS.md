@@ -12,7 +12,7 @@ The media is stored in the [media](media/) folder (git ignored).
 
 # Plan
 
-- [ ] Fetch media for female characters in the game Marvel Rivals.
+- [x] Fetch media for female characters in the game Marvel Rivals.
   - Character game screens.
   - Fan art images (especially sensual ones).
 
