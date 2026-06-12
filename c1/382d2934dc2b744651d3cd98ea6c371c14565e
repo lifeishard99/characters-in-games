@@ -1,0 +1,23 @@
+download_nsfw.py
+  s_2a991381d43f88::t_35c34d0ea01530 1-169
+AGENTS.md
+  s_2a991381d43f88::t_0dd428cf336029 19-20
+  s_2a991381d43f88::t_c631cd8dca3a82 18
+  s_2a991381d43f88::t_be9225e96ec3d4 34-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c1382d2934dc2b744651d3cd98ea6c371c14565e",
+  "prompts": {},
+  "sessions": {
+    "s_2a991381d43f88": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6b5e4af1-ce04-40ab-9549-ae6c60245bd1",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Kjetil Hårtveit <kjetil_runescape@hotmail.com>"
+    }
+  }
+}
