@@ -15,6 +15,12 @@ The media is stored in the [media](media/) folder (git ignored).
 - [x] Fetch media for female characters in the game Marvel Rivals.
   - Character game screens.
   - Fan art images (especially sensual ones).
+  - How media was fetched
+    - Used `download_media.py` — a Python script that searches Bing Images and downloads results.
+    - Characters were listed in `characters.json`.
+    - Images were saved to `media/marvel-rivals/{character}/{category}/`.
+    - Dependencies: `pip install -r requirements.txt` (requests, beautifulsoup4, Pillow).
+    - The script includes rate limiting to avoid being blocked.
 - [x] Fetch NSFW fan art for female characters in Marvel Rivals.
   - Focus on explicit/adult fan art.
   - Store in `media/marvel-rivals/{character}/fan-art-nsfw/`.
@@ -30,14 +36,6 @@ The media is stored in the [media](media/) folder (git ignored).
 [docs](docs/) may contain useful resources for agents when executing tasks.
 
 - [plans](docs/plans/): long lasting plans with descriptions, implementation details and checklists.
-
-# How media is fetched
-
-- Uses `download_media.py` — a Python script that searches Bing Images and downloads results.
-- Characters are listed in `characters.json`.
-- Images are saved to `media/marvel-rivals/{character}/{category}/`.
-- Dependencies: `pip install -r requirements.txt` (requests, beautifulsoup4, Pillow).
-- The script includes rate limiting to avoid being blocked.
 
 # AI-generated commit messages
 
