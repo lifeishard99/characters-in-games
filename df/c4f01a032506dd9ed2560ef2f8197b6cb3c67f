@@ -1,0 +1,19 @@
+deduplicate.py
+  s_2a991381d43f88::t_03eaebea1ec6dc 1-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "dfc4f01a032506dd9ed2560ef2f8197b6cb3c67f",
+  "prompts": {},
+  "sessions": {
+    "s_2a991381d43f88": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6b5e4af1-ce04-40ab-9549-ae6c60245bd1",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Kjetil Hårtveit <kjetil_runescape@hotmail.com>"
+    }
+  }
+}
